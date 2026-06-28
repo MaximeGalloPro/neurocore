@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Local environment
+.env
+.env.*
