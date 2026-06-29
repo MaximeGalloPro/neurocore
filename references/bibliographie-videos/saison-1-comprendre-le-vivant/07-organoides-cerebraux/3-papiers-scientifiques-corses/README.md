@@ -1,14 +1,12 @@
 # Niveau 3 - Papiers scientifiques corses
 
-1. Lancaster et al. - Cerebral organoids model human brain development and microcephaly  
-   URL : https://www.nature.com/articles/nature12517  
-   Pourquoi : papier fondateur des organoides cerebraux modernes.
-   Acces : acces complet non verifie automatiquement, car Nature peut afficher une page intermediaire de cookies ou de verification selon le navigateur.
+1. Cerebral organoid research for pediatric patients with neurological disorders  
+   URL : https://europepmc.org/article/MED/39608368  
+   Pourquoi : article open access sur les organoides cerebraux comme modeles de troubles neurologiques.
 
-2. Quadrato et al. - Cell diversity and network dynamics in photosensitive human brain organoids  
-   URL : https://www.nature.com/articles/nature22047  
-   Pourquoi : papier exigeant sur diversite cellulaire et activite de reseau dans les organoides.
-   Acces : acces complet non verifie automatiquement, car Nature peut afficher une page intermediaire de cookies ou de verification selon le navigateur.
+2. GABA/Glutamate Neuron Differentiation Imbalance and Increased AKT/mTOR Signaling in CNTNAP2 Cerebral Organoids  
+   URL : https://europepmc.org/article/MED/39758604  
+   Pourquoi : papier exigeant sur differenciation neuronale et signaux cellulaires dans des organoides cerebraux.
 
 3. Functional Neural Networks in Human Brain Organoids  
    URL : https://europepmc.org/article/MED/39314749  

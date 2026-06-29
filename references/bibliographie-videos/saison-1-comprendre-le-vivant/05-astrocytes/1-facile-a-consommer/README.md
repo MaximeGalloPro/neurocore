@@ -8,6 +8,6 @@
    URL : https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/glia  
    Pourquoi : introduction accessible aux differents types de cellules gliales.
 
-3. Khan Academy - Overview of neuron structure and function  
-   URL : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function  
+3. Queensland Brain Institute - What is a neuron?  
+   URL : https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/what-neuron  
    Pourquoi : utile pour contraster neurones et cellules de support.

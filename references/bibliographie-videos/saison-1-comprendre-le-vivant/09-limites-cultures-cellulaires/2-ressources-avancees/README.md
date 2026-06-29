@@ -1,8 +1,8 @@
 # Niveau 2 - Ressources avancees
 
-1. Thermo Fisher - Cell Culture Basics  
-   URL : https://www.thermofisher.com/fr/fr/home/references/gibco-cell-culture-basics.html  
-   Pourquoi : guide pratique pour comprendre contamination, passage, milieu et erreurs de manipulation.
+1. NCBI Bookshelf - The Origin and Evolution of Cells  
+   URL : https://www.ncbi.nlm.nih.gov/books/NBK9841/  
+   Pourquoi : ressource avancee pour replacer les cultures cellulaires dans une logique de biologie cellulaire.
 
 2. CDC - Biosafety in Microbiological and Biomedical Laboratories  
    URL : https://www.cdc.gov/labs/BMBL.html  

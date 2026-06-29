@@ -8,6 +8,6 @@
    URL : https://openstax.org/books/biology-2e/pages/9-introduction  
    Pourquoi : replace stress, signaux cellulaires et regulation dans un cadre biologique general.
 
-3. Thermo Fisher - Cell Culture Basics Handbook  
-   URL : https://www.thermofisher.com/fr/fr/home/references/gibco-cell-culture-basics.html  
-   Pourquoi : ressource pratique sur les causes de mortalite et les erreurs de manipulation en culture.
+3. NCBI Bookshelf - Programmed Cell Death (Apoptosis)  
+   URL : https://www.ncbi.nlm.nih.gov/books/NBK26873/  
+   Pourquoi : ressource plus dense sur les mecanismes generaux de mort cellulaire.

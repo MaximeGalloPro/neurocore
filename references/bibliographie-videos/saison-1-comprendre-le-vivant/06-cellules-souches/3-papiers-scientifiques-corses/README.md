@@ -8,7 +8,6 @@
    URL : https://europepmc.org/article/MED/39588275  
    Pourquoi : ressource open access sur les techniques, contraintes et difficultes de culture des cellules souches.
 
-3. Vierbuchen et al. - Direct conversion of fibroblasts to functional neurons by defined factors  
-   URL : https://www.nature.com/articles/nature08797  
-   Pourquoi : montre une route alternative vers des neurones sans passer par une logique classique de culture neuronale primaire.
-   Acces : acces complet non verifie automatiquement, car Nature peut afficher une page intermediaire de cookies ou de verification selon le navigateur.
+3. Epigenetic Dynamics in Reprogramming to Dopaminergic Neurons for Parkinson's Disease  
+   URL : https://europepmc.org/article/MED/39279468  
+   Pourquoi : montre les enjeux de reprogrammation cellulaire vers des neurones specialises.

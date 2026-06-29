@@ -8,6 +8,6 @@
    URL : https://www.izhikevich.org/publications/whichmod.pdf  
    Pourquoi : compare les modeles de neurones a spikes et leurs compromis calcul / realisme.
 
-3. Brette - Philosophy of the spike: rate-based vs spike-based theories of the brain  
-   URL : https://arxiv.org/abs/1502.05200  
-   Pourquoi : ressource exigeante pour comprendre ce que represente vraiment un spike dans une theorie du cerveau.
+3. Neuronal Dynamics - Hodgkin-Huxley model  
+   URL : https://neuronaldynamics.epfl.ch/online/Ch2.html  
+   Pourquoi : ressource exigeante et gratuite pour comprendre la modelisation biophysique du potentiel d'action.

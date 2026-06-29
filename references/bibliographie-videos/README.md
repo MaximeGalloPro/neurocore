@@ -8,13 +8,19 @@ Regle de classement :
 - `2-ressources-avancees` : cours, chapitres de livres, guides techniques ou ressources plus denses.
 - `3-papiers-scientifiques-corses` : articles scientifiques, preprints ou textes de recherche plus exigeants.
 
-Les ressources doivent etre gratuites a consulter. Les URLs sont selectionnees pour etre stables et utiles au travail documentaire de Holivaw.
+Toutes les ressources doivent etre gratuites a consulter. Les URLs sont selectionnees pour etre stables, utiles au travail documentaire de Holivaw et lisibles sans abonnement payant.
 
 ## Verification des liens et acces
 
-Les liens de la Saison 1 ont ete verifies automatiquement le 2026-06-28.
+Les liens de la Saison 1 ont ete verifies automatiquement le 2026-06-29.
 
-Resultat du controle initial : 59 URLs uniques testees, 0 lien casse au niveau HTTP.
+Resultat du controle strict : 81 entrees, 60 URLs uniques testees, 0 signal paywall ou login-wall detecte.
+
+Corrections appliquees apres audit :
+
+- suppression des liens Khan Academy, car ils renvoyaient vers une page de verification cote navigateur ;
+- suppression des liens Nature, car ils affichaient des signaux d'acces institutionnel ou d'abonnement ;
+- suppression des liens Thermo Fisher, car ils renvoyaient vers une page `Access denied` pendant le fetch.
 
 Le controle automatique verifie que l'URL repond correctement. Il ne prouve pas toujours que le texte integral est accessible sans friction dans tous les navigateurs.
 
@@ -23,7 +29,7 @@ Convention d'annotation :
 - `Acces verifie` : la page repond correctement et la ressource est accessible directement ou via une plateforme ouverte stable.
 - `Acces complet non verifie automatiquement` : l'URL repond, mais l'editeur peut afficher une page cookies, une verification anti-bot ou une restriction variable selon le navigateur.
 
-Quand c'est possible, les liens vers Europe PMC, arXiv, OpenStax, NCBI Bookshelf, Khan Academy et cours universitaires ouverts sont preferes.
+Quand c'est possible, les liens vers Europe PMC, PubMed Central, arXiv, OpenStax, NCBI Bookshelf et cours universitaires ouverts sont preferes.
 
 ## Saisons disponibles
 

@@ -4,8 +4,8 @@
    URL : https://openstax.org/books/biology-2e/pages/35-1-neurons-and-glial-cells  
    Pourquoi : rappelle les briques cellulaires avant de parler de reseau.
 
-2. Khan Academy - Overview of neuron structure and function  
-   URL : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function  
+2. Queensland Brain Institute - How are neurons connected?  
+   URL : https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/how-are-neurons-connected  
    Pourquoi : donne les bases necessaires pour comprendre les connexions entre neurones.
 
 3. OpenStax Biology 2e - How Neurons Communicate  

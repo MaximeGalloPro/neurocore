@@ -1,8 +1,8 @@
 # Niveau 1 - Facile a consommer
 
-1. Khan Academy - The synapse  
-   URL : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse  
-   Pourquoi : introduction claire aux synapses chimiques et au passage du signal.
+1. Queensland Brain Institute - Action potentials and synapses  
+   URL : https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/action-potentials-and-synapses  
+   Pourquoi : introduction accessible aux synapses et au passage du signal.
 
 2. OpenStax Biology 2e - How Neurons Communicate  
    URL : https://openstax.org/books/biology-2e/pages/35-2-how-neurons-communicate  

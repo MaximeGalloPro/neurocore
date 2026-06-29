@@ -1,8 +1,8 @@
 # Niveau 1 - Facile a consommer
 
-1. Khan Academy - Overview of neuron structure and function  
-   URL : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function  
-   Pourquoi : rappelle la fragilite structurelle du neurone.
+1. NCBI Bookshelf - Programmed Cell Death (Apoptosis)  
+   URL : https://www.ncbi.nlm.nih.gov/books/NBK26873/  
+   Pourquoi : explique gratuitement les bases de la mort cellulaire programmee.
 
 2. OpenStax Biology 2e - Cell Communication  
    URL : https://openstax.org/books/biology-2e/pages/9-introduction  

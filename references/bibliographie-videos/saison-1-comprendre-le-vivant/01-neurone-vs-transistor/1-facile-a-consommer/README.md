@@ -1,8 +1,8 @@
 # Niveau 1 - Facile a consommer
 
-1. Khan Academy - Overview of neuron structure and function  
-   URL : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function  
-   Pourquoi : bonne premiere vision des parties du neurone et de leur role.
+1. Queensland Brain Institute - What is a neuron?  
+   URL : https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/what-neuron  
+   Pourquoi : bonne premiere vision des parties du neurone et de leur role, accessible a un amateur passionne.
 
 2. OpenStax Biology 2e - Neurons and Glial Cells  
    URL : https://openstax.org/books/biology-2e/pages/35-1-neurons-and-glial-cells  

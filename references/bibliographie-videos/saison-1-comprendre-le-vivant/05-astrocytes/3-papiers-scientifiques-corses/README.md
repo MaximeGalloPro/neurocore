@@ -8,7 +8,6 @@
    URL : https://europepmc.org/article/MED/39709647  
    Pourquoi : montre que les astrocytes peuvent intervenir dans la plasticite des circuits neuronaux.
 
-3. Bazargani et Attwell - Astrocyte calcium signaling: the third wave  
-   URL : https://www.nature.com/articles/nn.4201  
-   Pourquoi : ressource avancee sur la signalisation calcique des astrocytes.
-   Acces : acces complet non verifie automatiquement, car Nature peut afficher une page intermediaire de cookies ou de verification selon le navigateur.
+3. A spatial threshold for astrocyte calcium surge  
+   URL : https://europepmc.org/article/MED/39680037  
+   Pourquoi : ressource open access sur la signalisation calcique des astrocytes.
